@@ -12,7 +12,7 @@ Otra manera de hacerlo es descargándolo como archivo ZIP desde Github.
 
 <h3>About me</h3>
 
-Mi nombre es Eugenio Pello, soy un Front End Web Developer y trabajo día a día para seguir ampliando mis conocimientos sobre este enorme mundo que es React. Te dejo mis redes sociales aquí debajo para que podamos seguirnos y contactarnos.
+Mi nombre es Eugenio Pello, soy un Front End Web Developer y trabajo día a día para seguir ampliando mis conocimientos sobre este enorme mundo de la programación. Te dejo mis redes sociales acá abajo para que podamos seguirnos y contactarnos.
 
 <h3>¡Gracias por tu tiempo!</h3>
 
