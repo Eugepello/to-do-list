@@ -1,5 +1,7 @@
 <h2>Lista de Tareas creada con HTML, CSS y JAVASCRIPT.</h2>
 
+<img href="https://res.cloudinary.com/eugepello/image/upload/v1666991297/gif-to-do-list_lqdaen.gif" alt="Gif de prueba">
+
 <h4>¿Querés levantar el proyecto localmente?</h4>
 
 ```
